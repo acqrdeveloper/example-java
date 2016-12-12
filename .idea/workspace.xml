@@ -1,0 +1,2335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a04d410-1744-4c7a-bf95-94d40f2a98c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/com.mysql.jdbc.Driver - 5.1.23-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.jms.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.resource.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/bean/Product.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/controller/ProductController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/controller/_FactoryController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/dao/ProductDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/dao/_FactoryDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/other/helpers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/service/ProductService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/servlets/ProductServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/classes/servlets/UserServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/lib/com.mysql.jdbc.Driver - 5.1.23-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/images/002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/bean/Product.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/controller/ProductController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/controller/_FactoryController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/dao/ProductDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/dao/_FactoryDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/other/helpers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/service/ProductService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/servlets/ProductServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Maintenance/servlets/UserServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/images/002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Maintenance.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fileTemplates/blade༏ext༏.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fileTemplates/class abstract.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_mysql_jdbc_Driver___5_1_23_bin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Maintenance.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/index.xhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/appdev/css/custom_styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/appdev/product/product.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/backbone/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/backbone/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/backbone/backbone-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/backbone/backbone-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/backbone/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/backbone/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/grunt/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/grunt/bs-commonjs-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/reset-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/nuget/MyGet.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/nuget/bootstrap.less.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/nuget/bootstrap.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/devbridge-autocomplete.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/dist/jquery.autocomplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/dist/jquery.autocomplete.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/dist/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/src/jquery.autocomplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/typings/jquery-autocomplete/jquery.autocomplete-tests.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/typings/jquery-autocomplete/jquery.autocomplete.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/devbridge-autocomplete/typings/jquery/jquery.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/fontawesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/hint.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/hint.base.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/hint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/hint.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-always.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-color-types.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-effects.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-position.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-rounded.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-sizes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint-variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint.base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/hint.css/src/hint.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax/parseJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/ajax/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/defaultDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/var/isHidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/data/accepts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/data/var/data_priv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/data/var/data_user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/rnotwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/strundefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ar-sa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ar-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/de-at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/dv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/en-ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/en-nz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/fr-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/fy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/gd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/jv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/lo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/pa-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/se.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/sr-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/te.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/tlh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/tzl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/tzm-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/x-pseudo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/locale/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/min/locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/min/locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/min/moment-with-locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/min/moment-with-locales.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/min/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/min/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/moment.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/check-overflow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/date-from-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/from-anything.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/from-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/from-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/from-string-and-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/from-string-and-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/from-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/parsing-flags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/utc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/create/valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/abs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/add-subtract.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/as.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/duration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/humanize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/iso-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/duration/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/format/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/invalid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/lists.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/ordinal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/pre-post-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/relative.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/locale/set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/add-subtract.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/clone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/creation-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/from.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/get-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/locale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/min-max.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/now.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/start-end-of.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/to-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/to.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/moment/valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/parse/regex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/parse/token.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/aliases.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/day-of-month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/day-of-week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/day-of-year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/hour.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/millisecond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/minute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/quarter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/second.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/timestamp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/timezone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/units.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/week-calendar-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/week-year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/units/year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/abs-ceil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/abs-floor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/abs-round.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/compare-arrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/defaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/deprecate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/has-own-prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/hooks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/index-of.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/is-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/is-date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/is-function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/is-object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/is-undefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/some.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/to-int.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/lib/utils/zero-fill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ar-sa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ar-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/de-at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/dv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/en-ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/en-nz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/fr-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/fy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/gd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/jv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/lo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/pa-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/se.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/sr-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/te.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/tlh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/tzl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/tzm-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/x-pseudo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/locale/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/src/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/templates/amd-named.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/templates/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/templates/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/templates/globals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/templates/locale-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/moment/templates/test-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/css/pikaday.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/amd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/bound-container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/calendars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/container.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/date-range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/jquery-amd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/moment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/positions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/trigger.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/examples/weeknumbers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/pikaday.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/plugins/pikaday.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/scss/pikaday.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/tests/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pikaday/tests/module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pusher/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pusher/CHANGELOG.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pusher/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pusher/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pusher/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/pusher/dist/web/pusher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/underscore/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/underscore/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/underscore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/underscore/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/underscore/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/public/bower_components/underscore/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/layouts/errors.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/layouts/firma.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/layouts/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/layouts/master.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/product.create.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/product.edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/product.list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/product.logic.delete.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/product.logic.update.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/product.report.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/product.show.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Maintenance/view/reports/export.products.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bean/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controller/ProductController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/controller/_FactoryController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dao/ProductDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dao/_FactoryDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/other/helpers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/service/ProductService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/servlets/ProductServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/servlets/UserServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/appdev/css/custom_styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/appdev/product/product.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/public/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/layouts/errors.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/layouts/firma.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/layouts/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/layouts/master.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/product.create.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/product.edit.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/product.list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/product.logic.delete.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/product.logic.update.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/product.report.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/product.show.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view/reports/export.products.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="Maintenance.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Maintenance$GlassFish_4_1_1.coverage" NAME="GlassFish 4.1.1 Coverage Results" MODIFIED="1481142278948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Maintenance$ProductController.coverage" NAME="ProductController Coverage Results" MODIFIED="1481227303382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>controller.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - dblaravel@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Maintenance" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="class abstract" />
+        <option value="Abstract" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/controller/ConfigController.java" />
+        <option value="$PROJECT_DIR$/src/dao/NameClass.java" />
+        <option value="$PROJECT_DIR$/src/dao/ConfigDao.java" />
+        <option value="$PROJECT_DIR$/web/public/bower.json" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/view/hello.jsp" />
+        <option value="$PROJECT_DIR$/web/public/.htaccess" />
+        <option value="$PROJECT_DIR$/web/.htaccess" />
+        <option value="$PROJECT_DIR$/web/view/layouts/master.jsp" />
+        <option value="$PROJECT_DIR$/src/dao/_FactoryDao.java" />
+        <option value="$PROJECT_DIR$/web/view/layouts/header.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product/product.create.jsp" />
+        <option value="$PROJECT_DIR$/src/other/helpers.java" />
+        <option value="$PROJECT_DIR$/web/public/appdev/product.jsp" />
+        <option value="$PROJECT_DIR$/web/view/firma.html" />
+        <option value="$PROJECT_DIR$/web/layouts/header.jsp" />
+        <option value="$PROJECT_DIR$/web/view/resports/export.products.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/public/appdev/product.js" />
+        <option value="$PROJECT_DIR$/web/view/product.index.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product/index.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product/list.jsp" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/view/index.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product_index.jsp" />
+        <option value="$PROJECT_DIR$/web/index.xhtml" />
+        <option value="$PROJECT_DIR$/src/controller/_FactoryController.java" />
+        <option value="$PROJECT_DIR$/web/view/layouts/errors.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product.logic.edit.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product.edit.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product.logic.delete.jsp" />
+        <option value="$PROJECT_DIR$/web/view/reports/export.products.jsp" />
+        <option value="$PROJECT_DIR$/src/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/src/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/servlets/ProductServlet.java" />
+        <option value="$PROJECT_DIR$/web/view/product.create.jsp" />
+        <option value="$PROJECT_DIR$/web/public/appdev/product/product.js" />
+        <option value="$PROJECT_DIR$/src/bean/Product.java" />
+        <option value="$PROJECT_DIR$/src/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/web/view/product.list.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product.report.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product.show.jsp" />
+        <option value="$PROJECT_DIR$/web/view/product.logic.update.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maintenance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appdev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NetBeansProjects/Library/jdbc/com.mysql.jdbc.Driver - 5.1.23-bin.jar!/" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3321839" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documentos\Projects-JavaWeb\Maintenance\web\view" />
+      <recent name="D:\Documentos\Projects-JavaWeb\Maintenance\web\layouts" />
+      <recent name="D:\Documentos\Projects-JavaWeb\Maintenance\web\view\layouts" />
+      <recent name="D:\Documentos\Projects-JavaWeb\Maintenance\web\public\appdev\product" />
+      <recent name="D:\Documentos\Projects-JavaWeb\Maintenance\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documentos\Projects-JavaWeb\Maintenance\web\public\images" />
+      <recent name="D:\Documentos\Projects-JavaWeb\Maintenance\web\public\appdev" />
+      <recent name="D:\Documentos\Projects-JavaWeb\Maintenance\web\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat:8081">
+    <configuration default="false" name="ProductController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="controller.ProductController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Maintenance" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GlassfishConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Maintenance" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="GlassFish:8080" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 4.1.1" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Maintenance_war_exploded" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="Maintenance">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="admin" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Maintenance" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="Tomcat:8081" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/view/product.list.jsp" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Maintenance">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Maintenance" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="2001" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="false" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49459" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Maintenance" />
+        </option>
+      </method>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="GlassFish Server.GlassFish:8080" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat:8081" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ProductController" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.ProductController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a04d410-1744-4c7a-bf95-94d40f2a98c4" name="Default" comment="" />
+      <created>1481123598377</created>
+      <option name="number" value="Default" />
+      <updated>1481123598377</updated>
+      <workItem from="1481123606610" duration="2100000" />
+      <workItem from="1481125787105" duration="364000" />
+      <workItem from="1481133141297" duration="1517000" />
+      <workItem from="1481134707987" duration="4507000" />
+      <workItem from="1481145816293" duration="20000" />
+      <workItem from="1481172370081" duration="21000" />
+      <workItem from="1481173027572" duration="40942000" />
+      <workItem from="1481246573570" duration="12589000" />
+      <workItem from="1481323373125" duration="898000" />
+      <workItem from="1481345945865" duration="28507000" />
+      <workItem from="1481423434574" duration="1210000" />
+      <workItem from="1481425463114" duration="20381000" />
+      <workItem from="1481485091138" duration="177000" />
+      <workItem from="1481508449613" duration="10952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="124185000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2611276" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24777448" sideWeight="0.5095238" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.4968254" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.4873016" order="4" side_tool="false" content_ui="tabs" x="-8" y="-8" width="1320" height="784" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20092024" sideWeight="0.6359447" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20793651" sideWeight="0.3640553" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18253969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25873017" sideWeight="0.45535713" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6379822" sideWeight="0.4904762" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Program Files/glassfish4/glassfish/modules/javax.servlet-api.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17447495">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/com.mysql.jdbc.Driver - 5.1.23-bin.jar!/com/mysql/jdbc/ResultSetImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84491116">
+          <caret line="3749" column="46" selection-start-line="3749" selection-start-column="46" selection-end-line="3749" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/glassfish4/glassfish/modules/javax.servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.962963">
+          <caret line="60" column="58" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22291021">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/glassfish4/glassfish/modules/javax.servlet-api.jar!/javax/servlet/http/LocalStrings.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7374392">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/HttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18120806">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/annotation/WebServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27181208">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/public/bower_components/devbridge-autocomplete/typings/jquery/jquery.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.4125202">
+          <caret line="329" column="4" selection-start-line="329" selection-start-column="4" selection-end-line="329" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33226323">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27447832">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/_FactoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66452646">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maintenance.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.25">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/Maintenance.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/typescript-compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="71.791664">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-42.99332">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/layouts/firma.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.75">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/layouts/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.75">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2568219">
+          <caret line="688" column="0" selection-start-line="688" selection-start-column="0" selection-end-line="688" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/_FactoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11556982">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/layouts/errors.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28938907">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/reports/export.products.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.44694534">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3622291">
+          <caret line="13" column="98" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlets/ProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72136223">
+          <caret line="140" column="59" selection-start-line="140" selection-start-column="48" selection-end-line="140" selection-end-column="59" />
+          <folding>
+            <element signature="docComment;class#ProductServlet#0" expanded="false" />
+            <element signature="method#clean#0;class#ProductServlet#0" expanded="false" />
+            <element signature="method#list#0;class#ProductServlet#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/public/appdev/product/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55727553">
+          <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+            <element signature="e#766#781#0" expanded="false" />
+            <element signature="e#847#1545#0" expanded="false" />
+            <element signature="e#933#1490#0" expanded="false" />
+            <element signature="e#955#1478#0" expanded="false" />
+            <element signature="e#1110#1129#0" expanded="false" />
+            <element signature="e#1156#1291#0" expanded="false" />
+            <element signature="e#1193#1273#0" expanded="false" />
+            <element signature="e#1315#1420#0" expanded="false" />
+            <element signature="e#1445#1464#0" expanded="false" />
+            <element signature="e#1496#1539#0" expanded="false" />
+            <element signature="e#1591#1903#0" expanded="false" />
+            <element signature="e#1608#1895#0" expanded="false" />
+            <element signature="e#1745#1761#0" expanded="false" />
+            <element signature="e#1788#1845#0" expanded="false" />
+            <element signature="e#1869#1885#0" expanded="false" />
+            <element signature="e#1959#2585#0" expanded="false" />
+            <element signature="e#2076#2577#0" expanded="false" />
+            <element signature="e#2233#2332#0" expanded="false" />
+            <element signature="e#2359#2457#0" expanded="false" />
+            <element signature="e#2481#2496#0" expanded="false" />
+            <element signature="e#2521#2567#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bean/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+          <folding>
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="107" column="48" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
+          <folding>
+            <element signature="docComment;class#ProductController#0" expanded="false" />
+            <element signature="method#store#0;class#ProductController#0" expanded="false" />
+            <element signature="method#list#0;class#ProductController#0" expanded="false" />
+            <element signature="method#clean#0;class#ProductController#0" expanded="false" />
+            <element signature="method#listProductsName#0;class#ProductController#0" expanded="false" />
+            <element signature="method#update#0;class#ProductController#0" expanded="false" />
+            <marker date="1481517486873" expanded="true" signature="783:1212" placeholder="insert into product... " />
+            <marker date="1481517486873" expanded="false" signature="1562:1610" placeholder="select id,na... product" />
+            <marker date="1481517486873" expanded="false" signature="2600:2627" placeholder="select id,na... product" />
+            <marker date="1481517486873" expanded="true" signature="3110:3170" placeholder="select id,na... product" />
+            <marker date="1481517486873" expanded="true" signature="3110:3181" placeholder="select id,na... product" />
+            <marker date="1481517486873" expanded="true" signature="3110:3206" placeholder="select id,na... product" />
+            <marker date="1481517486873" expanded="true" signature="3820:3834" placeholder="update produ... " />
+            <marker date="1481517486873" expanded="true" signature="3820:3856" placeholder="update produ... " />
+            <marker date="1481517486873" expanded="true" signature="3820:3874" placeholder="update produ... " />
+            <marker date="1481517486873" expanded="true" signature="3820:3886" placeholder="update produ... " />
+            <marker date="1481517486873" expanded="true" signature="4391:4421" placeholder="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/product.create.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc;n#jsp:root#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/product.edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#249#401#0#JSP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/product.list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.25">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#249#401#0#JSP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/product.report.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.25">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#249#401#0#JSP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/product.show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#249#401#0#JSP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/product.logic.delete.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3938906">
+          <caret line="407" column="2" selection-start-line="407" selection-start-column="2" selection-end-line="407" selection-end-column="2" />
+          <folding>
+            <element signature="n#xsd:element#7;n#xsd:schema#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/product.logic.update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08681672">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028938906">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/view/layouts/master.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20257235">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08053691">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.111455105">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="javaee-facet-resources" />
+              <type id="library" />
+              <type id="artifact" />
+              <type id="jpa-descriptors" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>Maintenance</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3321839" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (Maintenance)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3321839" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>script.aculo.us-1.9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3321839" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3321839" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Maintenance</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3321839" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.mysql.jdbc.Driver - 5.1.23-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3321839" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

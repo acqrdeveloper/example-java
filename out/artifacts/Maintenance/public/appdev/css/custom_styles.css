@@ -1,0 +1,25 @@
+.btn-default.myBtnHoverSuccess:hover {
+    color: #fff;
+    background-color: #449d44;
+    border-color: #398439;
+}
+.btn-default.myBtnHoverDanger:hover {
+    color: #fff;
+    background-color: #c9302c;
+    border-color: #ac2925;
+}
+.btn-default.myBtnHoverInfo:hover {
+    color: #fff;
+    background-color: #31b0d5;
+    border-color: #269abc;
+}
+.btn-default.myBtnHoverPrimary:hover {
+     color: #fff;
+     background-color: #286090;
+     border-color: #204d74;
+ }
+.btn-default.myBtnHoverPurple:hover {
+    color: #fff;
+    background-color: #524790;
+    border-color: #452574;
+}

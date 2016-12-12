@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.mysql.jdbc.Driver - 5.1.23-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.mysql.jdbc.Driver - 5.1.23-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
