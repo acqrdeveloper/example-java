@@ -15,10 +15,11 @@ public class ProductService implements ProductDao {
     _FactoryDao fabrica = _FactoryDao.getfactoryDao(_FactoryDao.MYSQL);
     ProductDao productDao = fabrica.getProductDao();
 
-    public int store(String varName, String varImage, int varQuantity, float varPrice,String varDescription) {
+    public int store(String varName, String varImage, int varQuantity, float varPrice, String varDescription) {
         int result = 0;
         try {
-            result = productDao.store(varName, varImage, varQuantity, varPrice,varDescription);
+            result = productDao.store(varName, varImage, varQuantity, varPrice, varDescription);
+            NOTIFICATIONS("success", "created successfully");
         } catch (SQLException e) {
             e.printStackTrace();
         } catch (Exception e) {
@@ -84,6 +85,7 @@ public class ProductService implements ProductDao {
         int result = 0;
         try {
             result = productDao.update(product);
+            NOTIFICATIONS("success", "updated successfully");
         } catch (SQLException e) {
             e.printStackTrace();
         } catch (Exception e) {
@@ -97,11 +99,19 @@ public class ProductService implements ProductDao {
         int result = 0;
         try {
             result = productDao.delete(id);
+            NOTIFICATIONS("success", "deleted successfully");
         } catch (SQLException e) {
             e.printStackTrace();
         } catch (Exception e) {
             e.printStackTrace();
         }
         return result;
+    }
+
+    public static ArrayList<String> NOTIFICATIONS(String level, String msg) {
+        ArrayList<String> varArray = null;
+        varArray.add(0, level);
+        varArray.add(1, msg);
+        return varArray;
     }
 }

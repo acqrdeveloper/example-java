@@ -24,6 +24,7 @@
     <div class="container-fluid">
         <br>
         <br>
+        <%@include file="layouts/notifications.jsp"%>
         <div class="col-sm-6 col-sm-offset-3">
             <form action="product.logic.update.jsp" class="form-horizontal" role="form" method="POST">
                 <input type="hidden" name="id" value="<%=product.getId()%>">

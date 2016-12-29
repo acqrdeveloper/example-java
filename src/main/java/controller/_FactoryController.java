@@ -4,7 +4,6 @@ import dao.ProductDao;
 import dao._FactoryDao;
 
 import java.sql.Connection;
-import java.sql.Driver;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 

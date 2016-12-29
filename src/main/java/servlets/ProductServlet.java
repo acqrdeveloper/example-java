@@ -138,9 +138,9 @@ public class ProductServlet extends HttpServlet {
         String varImage = req.getParameter("image");
         int varQuantity = Integer.parseInt(req.getParameter("quantity"));
         float varPrice = Float.parseFloat(req.getParameter("price"));
-        String varDescription=req.getParameter("description");
+        String varDescription = req.getParameter("description");
 
-        result = productService.store(varName, varImage, varQuantity, varPrice,varDescription);
+        result = productService.store(varName, varImage, varQuantity, varPrice, varDescription);
 
         resp.setContentType("text/html");
         pw = resp.getWriter();

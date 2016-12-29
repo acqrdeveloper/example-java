@@ -25,7 +25,9 @@
         <br>
         <div class="row">
             <div class="col-sm-12 ">
-                <h1 class="text-primary"><strong>List Products in JAVA<small class="text-danger">1.8.0_111</small></strong></h1>
+                <h1 class="text-primary"><strong>List Products in JAVA
+                    <small class="text-danger">1.8.0_111</small>
+                </strong></h1>
             </div>
             <div class="col-sm-12">
                 <div class="col-sm-6 ">
@@ -60,7 +62,8 @@
                                 class="glyphicon glyphicon-edit"></span>&nbsp;&nbsp;edit</a>
 
                         <%--<button id="btnSee" class="btn btn-sm btn-default btnShowClick" type="button" data-row="<%=product.getId()%>">Ver</button>--%>
-                        <a href="../view/product.show.jsp?id=<%=product.getId()%>" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-oil"></span>&nbsp;&nbsp;see</a>
+                        <a href="../view/product.show.jsp?id=<%=product.getId()%>" class="btn btn-sm btn-default"><span
+                                class="glyphicon glyphicon-oil"></span>&nbsp;&nbsp;see</a>
                     </div>
                 </div>
             </div>

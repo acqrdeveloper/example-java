@@ -9,7 +9,13 @@ $(document).ready(function () {
     //TODO : Form Create
     $formCreate.on('submit', function (e) {
         e.preventDefault();
-        var $paramsObj = $formCreate.serialize();
+        var $filename = $('#inImage').val();//todo:obtiene la ruta de archivo
+        $filename.replace(/C:\\fakepath\\/i, '');//todo:obtiene solo nombre de archivo
+        $('#inLoadImage').val($filename);//todo:set al campo mane para el form
+        var $paramsObj = $formCreate.serialize();//todo:obtiene los campos name del form
+
+        console.log($paramsObj);
+
         $.ajax({
             type: 'POST',
             url: "../ProductServlet?accion=store",

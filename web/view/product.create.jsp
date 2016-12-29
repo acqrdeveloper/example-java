@@ -17,7 +17,7 @@
         <br>
         <br>
         <div class="col-sm-6 col-sm-offset-3">
-            <form id="frmProductCreate" class="form-horizontal" role="form" method="POST">
+            <form id="frmProductCreate" class="form-horizontal" role="form" method="POST" enctype="multipart/form-data">
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <h3><strong>Create Product</strong></h3>
@@ -38,13 +38,21 @@
                                 <input id="inPrice" name="price" type="text" class="form-control input-sm" required>
                             </div>
                         </div>
+                        <%--<div class="form-group-sm">--%>
+                            <%--<label for="inImage" class="control-label">the image</label>--%>
+                            <%--<input id="inImage" name="image" type="text" class="form-control input-sm" required>--%>
+                        <%--</div>--%>
                         <div class="form-group-sm">
-                            <label for="inImage" class="control-label">the image</label>
-                            <input id="inImage" name="image" type="text" class="form-control input-sm" required>
+                            <label class="control-label">load the imagen</label>
+                            <label for="inImage" class="btn btn-block btn-sm btn-default">
+                                <input id="inImage" type="file" class="input-sm">
+                                <input id="inLoadImage" name="image" type="hidden" value="">
+                            </label>
                         </div>
                         <div class="form-group-sm">
-                            <label for="inImage" class="control-label">Description</label>
-                            <textarea name="description" id="" cols="30" rows="2" class="form-control input-sm "></textarea>
+                            <label class="control-label">Description</label>
+                            <textarea name="description" id="inDescrip" cols="30" rows="2"
+                                      class="form-control input-sm "></textarea>
                         </div>
                     </div>
                     <div class="panel-body row">
